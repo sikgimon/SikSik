@@ -1,2 +1,2 @@
 # SikSik
-learn
+print('hello SikSik')
